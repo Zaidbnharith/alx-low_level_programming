@@ -1,2 +1,11 @@
-#!/bin/bash
-export CFILE=2-main.c ; ./2-assembler
+#include <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Return:Always 0 (success)
+ *
+ */ 
+ {
+ int main(void)
+	return(0);
+}
