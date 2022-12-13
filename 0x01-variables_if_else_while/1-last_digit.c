@@ -6,7 +6,7 @@
  * Description:main - set a random number to variable.
  * If the number is > 5:is greater than five.
  * If the last digit is 0:is zero.
- * If the last digit is less than 6 and not 0:is less than six and not zero.
+ * If the last digit is less than 6 and not 0:is less than six and not zero. 
  * Return:0
  */
 
@@ -23,7 +23,7 @@ printf("Last digit of %d is %d and is greater than 5\n", n, a);
 }
 else if (a == 0)
 {
-printf("Last digit of %d is %d ans is 0\n", n, a);
+printf("Last digit of %d is %d and is 0\n", n, a);
 }
 else
 {
