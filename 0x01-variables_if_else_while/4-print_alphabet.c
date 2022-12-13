@@ -15,7 +15,7 @@ if (lc != 'e' && lc != 'q')
 putchar(lc);
 }
 
-putchar('n\');
+putchar('\n');
 
 return (0);
 }
