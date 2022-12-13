@@ -4,9 +4,9 @@
 
 /**
  * Description:main - set a random number to variable.
- * If the number is > 5:is greater than 5.
- * If the las digit is 0:is 0.
- * If the last digit is less than 6 and not 0:is less than 6 and not 0.
+ * If the number is > 5:is greater than five.
+ * If the last digit is 0:is zero.
+ * If the last digit is less than 6 and not 0:is less than six and not zero.
  * Return:0
  */
 
