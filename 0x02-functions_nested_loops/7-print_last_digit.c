@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * main - check the code
  *
  * Description: 'This program prints the last digit'
  *

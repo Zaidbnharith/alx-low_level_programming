@@ -2,6 +2,7 @@
 
 /**
  * print_alphabet_x10(void) - Entry point
+ *
  * Return: 0
   */
 
