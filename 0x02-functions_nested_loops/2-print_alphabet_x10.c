@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10(void) - Entry point
- *
- * Return: 0
-  */
+* print_alphabet_x10(void) - Entry point
+* Return: 0
+ */
 
 void print_alphabet_x10(void)
 {
