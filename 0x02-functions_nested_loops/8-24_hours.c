@@ -1,10 +1,8 @@
-#include <stdio.h>
 #include "main.h"
+
 /**
-*main - entry point
-*Decription: "prints every minutes of the day"
-*jack_bauer - prints every minute of the day
-*/
+ * jack_bauer - prints every minute.
+ */
 void jack_bauer(void)
 {
 int hour, minute;
