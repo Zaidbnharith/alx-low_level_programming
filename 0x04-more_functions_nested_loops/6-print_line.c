@@ -1,15 +1,19 @@
 #include "main.h"
 
 /**
- * print_alphabet - prints the alphabet in lowercase, followed by a new line.
+ * print_line - print straight line n times.
+ *
+ * @n: times straight line is printed.
+ * Return: no return.
  */
 
-void print_alphabet(void)
+void print_line(int n)
 {
-	char letter;
+	int i;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-		_putchar(letter);
-
+	for (i = 0; i < n; i++)
+	{
+		_putchar(95);
+	}
 	_putchar('\n');
 }
